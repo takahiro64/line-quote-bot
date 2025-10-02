@@ -1,6 +1,6 @@
 # LINE名言チャットボット
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/takahiro64/line-quote-bot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/takahiro64s-projects/line-quote-bot-)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
